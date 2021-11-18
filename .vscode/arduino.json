@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=8MHzatmega168",
+    "board": "arduino:avr:pro",
+    "port": "COM13",
+    "sketch": "..\\TouchFree_Toilet_V1.2\\TouchFree_Toilet_V1.2.ino"
+}
